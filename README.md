@@ -1,4 +1,4 @@
-# Roboticsn Projects
+# Robotics Projects
 I will be showcasing all my new and existing Robotics projects from my "roboattic Lab" YouTube channel here.
 
 ## How to make?
